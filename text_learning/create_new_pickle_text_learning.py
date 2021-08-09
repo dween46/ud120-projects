@@ -4,8 +4,8 @@ Created on Tue Aug  3 14:18:55 2021
 
 @author: Dell
 """
-original = "../your_word_data.pkl" 
-destination ="../your_word_data_unix.pkl" 
+original = "your_email_authors.pkl" 
+destination ="your_email_authors_unix.pkl" 
  
 content = ''
 outsize = 0
