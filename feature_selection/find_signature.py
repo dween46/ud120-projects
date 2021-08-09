@@ -11,7 +11,7 @@ numpy.random.seed(42)
 words_file = "../text_learning/your_word_data.pkl" 
 authors_file = "../text_learning/your_email_authors.pkl"
 word_data = pickle.load( open(words_file, "r"))
-authors = pickle.load( open(authors_file, "r") )
+authors = pickle.load( open(authors_file, "r") 
 
 
 
